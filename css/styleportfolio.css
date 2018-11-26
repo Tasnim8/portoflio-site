@@ -1,0 +1,51 @@
+  .img {
+
+      width: 80% ;
+      height: 10% ; 
+      padding: 5% ; 
+  }
+
+  p {
+
+  	 font-family: "Times New Roman", Times, serif ;
+  	 font-weight: bold ;
+  	 font-size: 18px ; 
+  }
+
+  #div1 {
+
+  	
+  	background-color: #007bff;
+  	 color: #fff;
+     
+
+  }
+ 
+
+#image1 {
+
+   max-width: 220px ;
+   max-height: 130px ; 
+}
+
+#div2 {
+	padding: 15% ;
+
+}
+.container {
+	margin-top:30px ;
+}
+
+.col-sm-4 {
+	box-shadow: 5px 5px 10px #ccc ;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #007bff;
+   color: white;
+   text-align: center;
+}
